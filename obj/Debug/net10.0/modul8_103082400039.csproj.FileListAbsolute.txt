@@ -1,0 +1,16 @@
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\bin\Debug\net10.0\bank_transfer_config.json
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\bin\Debug\net10.0\modul8_103082400039.exe
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\bin\Debug\net10.0\modul8_103082400039.deps.json
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\bin\Debug\net10.0\modul8_103082400039.runtimeconfig.json
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\bin\Debug\net10.0\modul8_103082400039.dll
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\bin\Debug\net10.0\modul8_103082400039.pdb
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\obj\Debug\net10.0\modul8_103082400039.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\obj\Debug\net10.0\modul8_103082400039.AssemblyInfoInputs.cache
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\obj\Debug\net10.0\modul8_103082400039.AssemblyInfo.cs
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\obj\Debug\net10.0\modul8_103082400039.csproj.CoreCompileInputs.cache
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\obj\Debug\net10.0\modul8_103082400039.sourcelink.json
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\obj\Debug\net10.0\modul8_103082400039.dll
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\obj\Debug\net10.0\refint\modul8_103082400039.dll
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\obj\Debug\net10.0\modul8_103082400039.pdb
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\obj\Debug\net10.0\modul8_103082400039.genruntimeconfig.cache
+D:\KULIAH\semester 4\konstruksi PL\modul8_103082400039\modul8_103082400039\obj\Debug\net10.0\ref\modul8_103082400039.dll
